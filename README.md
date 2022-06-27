@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+Angular Commands:
+npm install
+npm install -g @angular/cli
+cd where u want to create
+ng new my-project
+cd my-project
+ng serve
+
+or 
+ng serve
+ng serve --port 4401
